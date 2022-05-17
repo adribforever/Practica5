@@ -29,7 +29,7 @@ public class KNNController {
             throw new RuntimeException();
         }
     }
-    public void addUserPoint(String newPoint) {
+    public void addUserPoint(String newPoint) { // AÑadir excepcion si no son 4 coordenadas
         List<Double> pointDouble = getPointFromText(newPoint);
         model.addNewPoint(new Row(pointDouble));
     }

@@ -30,6 +30,8 @@ public class Main extends Application {
         knnModel.setView(knnView);
 
         Tab knnTab = new Tab("KNN", knnView.setUp(primaryStage));
+
+        knnTab.setClosable(false); // Evita que se pueda cerrar el Tab
         viewsInTabs.getTabs().add(knnTab);
 
         Scene primaryScene = new Scene(viewsInTabs);

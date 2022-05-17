@@ -36,6 +36,7 @@ public class KNNView {
     private Button estimateButton;
     private boolean firstLoadOfFile;
     private List<XYChart.Series> pointsByUser;
+
     public KNNView() {
         this.comboBoxAxisX = new ComboBox();
         this.comboBoxAxisY = new ComboBox();
@@ -81,7 +82,7 @@ public class KNNView {
         leftPartOrganizer.setAlignment(Pos.CENTER);
 
         borderPane.setLeft(leftPartOrganizer);
-        return  borderPane;
+        return borderPane;
     }
 
     private BorderPane prepareBottomPart(BorderPane borderPane) {
@@ -208,7 +209,17 @@ public class KNNView {
 
     private boolean isTextFieldValid(String inputOfUser) {
         Alert alert = new Alert(Alert.AlertType.ERROR);
-
+        String regex = "[0-9]+";
+        String regexCompleto = regex + "," + regex + "," + regex + "," + regex;
+        // Crea una alerta si el formato no es correcto
+        if (!inputOfUser.matches(regexCompleto)) {
+            alert.setTitle("Error ");
+            alert.setHeaderText("Formato incorrecto");
+            alert.setContentText("Introduce un formato tal que: 1,2,3,4");
+            alert.showAndWait();
+            return false;
+        }
+        //
         if (model.isDataLoaded()) {
             alert.setTitle("Error");
             alert.setHeaderText("No data");

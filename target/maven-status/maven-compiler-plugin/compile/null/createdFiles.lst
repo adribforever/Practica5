@@ -9,13 +9,13 @@ practica1\Factory.class
 practica1\Algorithm.class
 practica1\DistanceFactory$1.class
 practica1\RegresionLineal.class
-practica1\CSV.class
 model\KNNModel.class
+practica1\CSV.class
 practica1\KNN.class
-practica1\Kmeans.class
-practica1\Estadistica.class
 controller\KNNController.class
 mainGUI\Main.class
+practica1\Estadistica.class
+practica1\Kmeans.class
 practica1\Distance.class
 practica1\EuclideanDistance.class
 view\KNNView.class
