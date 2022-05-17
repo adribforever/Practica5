@@ -1,21 +1,21 @@
-G:\Mi unidad\UNIVERSIDAD\Segundo año\2do Semestre\1017-Programación Avanzada\Practicas\EI1019-Practica4\src\main\java\practica1\DistanceFactory.java
-G:\Mi unidad\UNIVERSIDAD\Segundo año\2do Semestre\1017-Programación Avanzada\Practicas\EI1019-Practica4\src\main\java\practica1\Row.java
-G:\Mi unidad\UNIVERSIDAD\Segundo año\2do Semestre\1017-Programación Avanzada\Practicas\EI1019-Practica4\src\main\java\practica1\Table.java
-G:\Mi unidad\UNIVERSIDAD\Segundo año\2do Semestre\1017-Programación Avanzada\Practicas\EI1019-Practica4\src\main\java\model\KNNModel.java
-G:\Mi unidad\UNIVERSIDAD\Segundo año\2do Semestre\1017-Programación Avanzada\Practicas\EI1019-Practica4\src\main\java\practica1\RowWithLabel.java
-G:\Mi unidad\UNIVERSIDAD\Segundo año\2do Semestre\1017-Programación Avanzada\Practicas\EI1019-Practica4\src\main\java\practica1\DistanceType.java
-G:\Mi unidad\UNIVERSIDAD\Segundo año\2do Semestre\1017-Programación Avanzada\Practicas\EI1019-Practica4\src\main\java\mainGUI\Main.java
-G:\Mi unidad\UNIVERSIDAD\Segundo año\2do Semestre\1017-Programación Avanzada\Practicas\EI1019-Practica4\src\main\java\practica1\CSV.java
-G:\Mi unidad\UNIVERSIDAD\Segundo año\2do Semestre\1017-Programación Avanzada\Practicas\EI1019-Practica4\src\main\java\practica1\KNN.java
-G:\Mi unidad\UNIVERSIDAD\Segundo año\2do Semestre\1017-Programación Avanzada\Practicas\EI1019-Practica4\src\main\java\practica1\Algorithm.java
-G:\Mi unidad\UNIVERSIDAD\Segundo año\2do Semestre\1017-Programación Avanzada\Practicas\EI1019-Practica4\src\main\java\practica1\Estadistica.java
-G:\Mi unidad\UNIVERSIDAD\Segundo año\2do Semestre\1017-Programación Avanzada\Practicas\EI1019-Practica4\src\main\java\practica1\DistanceClient.java
-G:\Mi unidad\UNIVERSIDAD\Segundo año\2do Semestre\1017-Programación Avanzada\Practicas\EI1019-Practica4\src\main\java\practica1\Kmeans.java
-G:\Mi unidad\UNIVERSIDAD\Segundo año\2do Semestre\1017-Programación Avanzada\Practicas\EI1019-Practica4\src\main\java\practica1\TableWithLabels.java
-G:\Mi unidad\UNIVERSIDAD\Segundo año\2do Semestre\1017-Programación Avanzada\Practicas\EI1019-Practica4\src\main\java\practica1\ManhattanDistance.java
-G:\Mi unidad\UNIVERSIDAD\Segundo año\2do Semestre\1017-Programación Avanzada\Practicas\EI1019-Practica4\src\main\java\practica1\Distance.java
-G:\Mi unidad\UNIVERSIDAD\Segundo año\2do Semestre\1017-Programación Avanzada\Practicas\EI1019-Practica4\src\main\java\practica1\EuclideanDistance.java
-G:\Mi unidad\UNIVERSIDAD\Segundo año\2do Semestre\1017-Programación Avanzada\Practicas\EI1019-Practica4\src\main\java\practica1\Factory.java
-G:\Mi unidad\UNIVERSIDAD\Segundo año\2do Semestre\1017-Programación Avanzada\Practicas\EI1019-Practica4\src\main\java\practica1\RegresionLineal.java
-G:\Mi unidad\UNIVERSIDAD\Segundo año\2do Semestre\1017-Programación Avanzada\Practicas\EI1019-Practica4\src\main\java\view\KNNView.java
-G:\Mi unidad\UNIVERSIDAD\Segundo año\2do Semestre\1017-Programación Avanzada\Practicas\EI1019-Practica4\src\main\java\controller\KNNController.java
+C:\Users\OMEGA\Desktop\EI1019-Practica4\src\main\java\practica1\Table.java
+C:\Users\OMEGA\Desktop\EI1019-Practica4\src\main\java\practica1\Algorithm.java
+C:\Users\OMEGA\Desktop\EI1019-Practica4\src\main\java\mainGUI\Main.java
+C:\Users\OMEGA\Desktop\EI1019-Practica4\src\main\java\practica1\TableWithLabels.java
+C:\Users\OMEGA\Desktop\EI1019-Practica4\src\main\java\practica1\Distance.java
+C:\Users\OMEGA\Desktop\EI1019-Practica4\src\main\java\practica1\DistanceType.java
+C:\Users\OMEGA\Desktop\EI1019-Practica4\src\main\java\practica1\CSV.java
+C:\Users\OMEGA\Desktop\EI1019-Practica4\src\main\java\practica1\ManhattanDistance.java
+C:\Users\OMEGA\Desktop\EI1019-Practica4\src\main\java\practica1\Estadistica.java
+C:\Users\OMEGA\Desktop\EI1019-Practica4\src\main\java\practica1\EuclideanDistance.java
+C:\Users\OMEGA\Desktop\EI1019-Practica4\src\main\java\practica1\DistanceClient.java
+C:\Users\OMEGA\Desktop\EI1019-Practica4\src\main\java\practica1\Factory.java
+C:\Users\OMEGA\Desktop\EI1019-Practica4\src\main\java\practica1\RegresionLineal.java
+C:\Users\OMEGA\Desktop\EI1019-Practica4\src\main\java\controller\KNNController.java
+C:\Users\OMEGA\Desktop\EI1019-Practica4\src\main\java\view\KNNView.java
+C:\Users\OMEGA\Desktop\EI1019-Practica4\src\main\java\model\KNNModel.java
+C:\Users\OMEGA\Desktop\EI1019-Practica4\src\main\java\practica1\RowWithLabel.java
+C:\Users\OMEGA\Desktop\EI1019-Practica4\src\main\java\practica1\DistanceFactory.java
+C:\Users\OMEGA\Desktop\EI1019-Practica4\src\main\java\practica1\Kmeans.java
+C:\Users\OMEGA\Desktop\EI1019-Practica4\src\main\java\practica1\KNN.java
+C:\Users\OMEGA\Desktop\EI1019-Practica4\src\main\java\practica1\Row.java
